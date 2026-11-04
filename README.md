@@ -4,9 +4,9 @@
 
 This project analyzes personal Apple Health data to explore changes in health, recovery, and activity across three distinct training periods:
 
-- **Off-Season Softball:** August 26, 2025 – February 5, 2026
-- **In-Season Softball:** February 6, 2026 – May 6, 2026
-- **Half Marathon Running:** June 8, 2026 – September 19, 2026
+- Off-Season Softball: August 26, 2025 – February 5, 2026
+- In-Season Softball: February 6, 2026 – May 6, 2026
+- Half Marathon Running: June 8, 2026 – September 19, 2026
 
 The goal is to compare key health and fitness metrics across these periods and examine how different types of physical training may relate to recovery, cardiovascular health, and daily activity.
 
@@ -117,12 +117,12 @@ These metrics are most useful when considered together rather than interpreted i
 
 Several limitations should be considered when interpreting the results:
 
-- **Single-person dataset:** The analysis reflects one individual's health and training history and cannot be generalized to a larger population.
-- **Different period lengths:** The three training periods do not contain the same number of days.
-- **Missing data:** Apple Health measurements were not recorded consistently every day, and the number of available observations varies by metric.
-- **Time gap:** There is a gap of recovery time between the in-season softball period and half marathon training period.
-- **Potential confounding factors:** Sleep, nutrition, stress, illness, and other lifestyle factors may influence the metrics.
-- **Correlation vs. causation:** Changes observed across training periods do not establish that a particular training style caused those changes.
+- Single-person dataset: The analysis reflects one individual's health and training history and cannot be generalized to a larger population.
+- Different period lengths: The three training periods do not contain the same number of days.
+- Missing data: Apple Health measurements were not recorded consistently every day, and the number of available observations varies by metric.
+- Time gap: There is a gap of recovery time between the in-season softball period and half marathon training period.
+- Potential confounding factors: Sleep, nutrition, stress, illness, and other lifestyle factors may influence the metrics.
+- Correlation vs. causation: Changes observed across training periods do not establish that a particular training style caused those changes.
 
 ## Future Work
 
@@ -136,5 +136,5 @@ Potential next steps include:
 ## Repository Structure
 
 ```text
-├── metrics_code.html
-└── README.md
+├── metrics_code.html - contains the code blocks, visualizations, and personal notes for the project
+└── README.md - contains a description of processes and future progressions
