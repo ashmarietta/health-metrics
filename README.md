@@ -1,4 +1,4 @@
-# Apple Health: Softball vs. Half Marathon Training Analysis
+# Softball vs. Half Marathon Health Metrics Training Analysis
 
 ## Overview
 
