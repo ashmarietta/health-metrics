@@ -1,4 +1,4 @@
-# Softball vs. Half Marathon Health Metrics Training Analysis
+# Softball vs. Half Marathon Training Health Metrics Analysis
 
 ## Overview
 
